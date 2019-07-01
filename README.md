@@ -1,4 +1,4 @@
-jQuery Assignment
+jQuery Assignment/Crystal Collector-Unit #4
 
 
 Overview
@@ -33,8 +33,7 @@ Choose whichever game you want to make from the choices below. The CrystalsColle
 
 Option One: CrystalsCollector Game (Recommended)
 
-![]1-CrystalCollector.jpg
-
+![1-CrystalCollector.jpg]
 
 
 Watch the demo.
