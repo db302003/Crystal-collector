@@ -6,7 +6,7 @@ Overview
 In this assignment, you'll create another fun and interactive game for web browsers. This time, your app must dynamically update your HTML pages with the jQuery library.
 
 
-**Before You Begin
+**Before You Begin**
 
 
 Create a new GitHub repo called unit-4-game, then clone it to your computer.
@@ -32,13 +32,13 @@ Choose whichever game you want to make from the choices below. The CrystalsColle
 
 
 
-**Option One: CrystalsCollector Game (Recommended)
+**Option One: CrystalsCollector Game (Recommended)**
 
 
 
 
 
-![](1-CrystalCollector.jpg)
+![crystal collector page](1-CrystalCollector.jpg)
 
 
 
