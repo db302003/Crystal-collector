@@ -1,7 +1,7 @@
-# JQuery Assignment/Crystal Collector-Unit #4 
+# JQuery Assignment/Crystal Collector-Unit #4 #
 
 
-Overview
+**Overview**
 
 In this assignment, you'll create another fun and interactive game for web browsers. This time, your app must dynamically update your HTML pages with the jQuery library.
 
@@ -38,7 +38,21 @@ Choose whichever game you want to make from the choices below. The CrystalsColle
 
 
 
+
+
+
+
+
+
 ![](images/1-CrystalCollector.jpg)
+
+
+
+
+
+
+
+
 
 
 
