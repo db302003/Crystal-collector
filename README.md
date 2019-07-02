@@ -5,7 +5,9 @@ Overview
 
 In this assignment, you'll create another fun and interactive game for web browsers. This time, your app must dynamically update your HTML pages with the jQuery library.
 
-[Github]Before You Begin
+[Github]db302003@gmail.com
+
+Before You Begin
 
 
 Create a new GitHub repo called unit-4-game, then clone it to your computer.
