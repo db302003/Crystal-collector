@@ -38,7 +38,7 @@ Choose whichever game you want to make from the choices below. The CrystalsColle
 
 
 
-![crystal collector page](1-CrystalCollector.jpg)
+![crystal collector page](images/1-CrystalCollector.jpg)
 
 
 
