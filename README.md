@@ -38,7 +38,7 @@ Choose whichever game you want to make from the choices below. The CrystalsColle
 
 
 
-![]1-CrystalCollector.jpg
+![](1-CrystalCollector.jpg)
 
 
 
